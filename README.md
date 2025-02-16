@@ -1,4 +1,4 @@
-# Cuda Programs
+# Heterogeneous-Parallel-Programming
 
 ###
 
